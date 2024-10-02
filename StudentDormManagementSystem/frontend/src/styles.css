@@ -1,0 +1,12 @@
+.d-flex {
+    display: flex;
+}
+
+.container {
+    margin-left: 250px;
+    width: calc(100% - 250px);
+}
+
+.error {
+    color: red;
+}
